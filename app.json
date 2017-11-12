@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "denemeler",
-    "description": "An empty new project",
-    "slug": "denemeler",
+    "name": "react-native-redux-navigation-sample",
+    "description": "Sample counter application. Includes react-native, react-navigation, react-redux, redux-logger, redux-thunk",
+    "slug": "react-native-redux-navigation-sample",
     "privacy": "public",
     "sdkVersion": "22.0.0",
     "version": "1.0.0",
